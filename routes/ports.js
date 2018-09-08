@@ -36,6 +36,10 @@ const assetChainPorts = {
   'EQL': '10306',
   'PRLPAY': '9679',
   'ZILLA': '10041',
+  MGNX: 48402,
+  CALL: 19609,
+  PIRATE: 45453,
+  CCL: 20849,
 };
 
 module.exports = assetChainPorts;
