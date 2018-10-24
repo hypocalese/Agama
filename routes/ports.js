@@ -3,6 +3,7 @@
 const assetChainPorts = {
   komodod: 7771,
   markermaker: 7783,
+  PTX: 61940,
   OOT: 12467,
   PIZZA: 11608,
   BEER: 8923,
