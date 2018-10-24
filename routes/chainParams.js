@@ -175,6 +175,15 @@ const chainParams = {
 		addnode: '51.75.124.34',
 		genproclimit: true,
 	},
+
+	PTX: {
+		ac_supply: 12000000,
+		ac_reward: 1500000000,
+		ac_staked: 50,
+		ac_end: 12000000,
+		addnode: '142.11.199.63',
+		genproclimit: true,
+	},
 };
 
 module.exports = chainParams;
