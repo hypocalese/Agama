@@ -128,7 +128,7 @@ const chainParams = {
 		ac_end: 2629800,
 		addnode: '142.93.27.180',
 		genproclimit: true,
-  },
+  	},
 	CALL: {
 		ac_supply: 52500000,
 		ac_reward: 1250000000,
@@ -164,8 +164,8 @@ const chainParams = {
 	},
 	KOIN: {
 		ac_supply: 125000000,
-    addnode: '3.0.32.10',
-  },
+    		addnode: '3.0.32.10',
+  	},
 	DION: {
 		ac_supply: 3900000000,
 		ac_reward: 22260000000,
@@ -173,6 +173,15 @@ const chainParams = {
 		ac_cc: 1,
 		ac_end: 4300000000,
 		addnode: '51.75.124.34',
+		genproclimit: true,
+	},
+	PTX: {
+		ac_supply: 12000000,
+		ac_reward: 1500000000,
+		ac_staked: 50,
+		ac_pubkey: '0359e2ee32833398c26378a2bb0962f98a7d77f3f6e6e4d27316bcb85542f23c61',
+		ac_end: 12000000,
+		addnode: '142.11.199.63"',
 		genproclimit: true,
 	},
 };
